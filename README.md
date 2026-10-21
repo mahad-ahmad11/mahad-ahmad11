@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Hi, I'm Mahad Ahmad 👋
+# Hi, I'm Mahad Ahmad 
 
 ### Aspiring SOC Analyst | Cybersecurity Enthusiast | Developer
 
