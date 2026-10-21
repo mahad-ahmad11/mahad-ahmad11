@@ -137,7 +137,7 @@ A web application for recording expenses, organizing transactions by category, a
 
 </div>
 
-**mahad-ahmad11/mahad-ahmad11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **mahad-ahmad11/mahad-ahmad11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
