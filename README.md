@@ -101,10 +101,6 @@ A web application for recording expenses, organizing transactions by category, a
 
 **Technologies:** HTML, CSS, JavaScript
 
-> 🔗 Project repositories and live demos will be linked here as each project becomes ready to share.
-
----
-
 ## 🎯 Current Learning Goals
 
 * 🐧 Develop practical Linux command-line skills.
