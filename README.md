@@ -26,7 +26,7 @@ I'm Mahad Ahmad, an aspiring developer with a growing interest in cybersecurity,
 
 I'm exploring how systems work, how vulnerabilities can be identified, and how security professionals detect and investigate suspicious activity.
 
-My primary career goal is to become a **Security Operations Center (SOC) Analyst**, while continuing to strengthen my programming and technical problem-solving skills.
+My primary career goal is to become a **Security Operations Center (SOC) Analyst & Software Engineer**, while continuing to strengthen my programming and technical problem-solving skills.
 
 * 🔐 Interested in SOC analysis, threat detection, and security monitoring.
 * 💻 Practicing programming with Python and C++.
@@ -46,7 +46,6 @@ My primary career goal is to become a **Security Operations Center (SOC) Analyst
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 ### 🔐 Cybersecurity & IT
@@ -56,7 +55,6 @@ My primary career goal is to become a **Security Operations Center (SOC) Analyst
   <img src="https://img.shields.io/badge/Computer-Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
   <img src="https://img.shields.io/badge/Linux-Learning-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/SOC-Analysis-14354C?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="SOC Analysis"/>
-  <img src="https://img.shields.io/badge/SIEM-Exploring-6C3483?style=for-the-badge&logo=elastic&logoColor=white" alt="SIEM"/>
 </p>
 
 ### 🧰 Tools I'm Exploring
@@ -65,7 +63,6 @@ My primary career goal is to become a **Security Operations Center (SOC) Analyst
   <img src="https://img.shields.io/badge/Nmap-Exploring-4682B4?style=flat-square" alt="Nmap"/>
   <img src="https://img.shields.io/badge/Burp%20Suite-Exploring-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
   <img src="https://img.shields.io/badge/Splunk-Learning-65A637?style=flat-square&logo=splunk&logoColor=white" alt="Splunk"/>
-  <img src="https://img.shields.io/badge/Wazuh-Learning-3A86FF?style=flat-square" alt="Wazuh"/>
 </p>
 
 *My tools and skills are a work in progress as I continue learning and practising.*
@@ -104,7 +101,6 @@ A web application for recording expenses, organizing transactions by category, a
 * 🌐 Strengthen networking fundamentals, including TCP/IP, DNS, and common protocols.
 * 🔎 Learn to interpret logs and investigate suspicious activity.
 * 🛡️ Explore ethical hacking in authorized lab environments.
-* 📊 Learn how SIEM platforms support security monitoring and incident investigation.
 * 🐍 Improve Python skills through automation and cybersecurity projects.
 * 💻 Build and publish useful software projects.
 
