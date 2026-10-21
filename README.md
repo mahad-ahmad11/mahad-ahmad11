@@ -12,7 +12,7 @@
 
 
 ---
-## 📬 Contact Me
+## 📬 Let's Connect
 
 I'm open to connecting with developers, cybersecurity enthusiasts and people interested in technology and learning.
 
@@ -131,19 +131,6 @@ A web application for recording expenses, organizing transactions by category, a
 </div>
 
 ---
-
-## 🤝 Let's Connect
-
-I'm interested in connecting with developers, cybersecurity learners, and people who enjoy sharing knowledge and building useful things.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahad%20Ahmad-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mahad-ahmad-m11/)
-
-[![Email](https://img.shields.io/badge/Email-Mahad-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:Malikmahadahmad1.11@gmail.com)
-
-<br/>
-
 ### 💡 Learn. Build. Secure. Repeat.
 
 *Thanks for visiting my profile!*
