@@ -10,18 +10,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Learning+Cybersecurity+%26+Programming;Exploring+SOC+Analysis+%26+Threat+Detection;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mahad-ahmad-m11/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/mahad-ahmad11)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:Malikmahadahmad1.11@gmail.com)
-
-</div>
 
 ---
 ## 📬 Contact Me
 
-I'm open to connecting with developers, cybersecurity enthusiasts, and people interested in technology and learning.
+I'm open to connecting with developers, cybersecurity enthusiasts and people interested in technology and learning.
 
 <p align="center">
   <a href="mailto:Malikmahadahmad1.11@gmail.com">
@@ -30,7 +23,7 @@ I'm open to connecting with developers, cybersecurity enthusiasts, and people in
   <a href="https://www.linkedin.com/in/mahad-ahmad-m11/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <!-- Add your WhatsApp link after replacing the placeholder below. -->
+  
   <a href="https://wa.me/+923455338424">
     <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
