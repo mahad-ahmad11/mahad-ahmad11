@@ -116,7 +116,7 @@ A web application for recording expenses, organizing transactions by category, a
 
 ---
 
-## 📊 GitHub Statistics
+<!--## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -129,9 +129,9 @@ A web application for recording expenses, organizing transactions by category, a
 <img src="https://streak-stats.demolab.com?user=mahad-ahmad11&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
-
+-->
 ---
-### 💡 Learn. Build. Secure. Repeat.
+### 💡 Learn. Build. Secure. Repeat. 
 
 *Thanks for visiting my profile!*
 
